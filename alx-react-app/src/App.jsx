@@ -40,7 +40,8 @@ function App() {
       {/* Use UserProfile with props */}
       <UserProfile name="Alice" age="25" bio="Loves hiking and photography" />
       <UserProfile name="Ray" age="22" bio="Passionate about coding and design" />
-
+      <Header />", "<Footer />", "<MainContent />
+      
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
