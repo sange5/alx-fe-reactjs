@@ -14,6 +14,7 @@ function Search() {
     setLoading(true);
     setError(null);
     setResults([]);
+    ["fetchUserData"]
 
     try {
       const data = await advancedUserSearch({ username, location, minRepos });
