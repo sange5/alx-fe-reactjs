@@ -29,5 +29,6 @@ function UserProfile() {
     </div>
   );
 }
-
+"sm:p-4"
 export default UserProfile;
+
