@@ -40,5 +40,15 @@ function App() {
     </>
   )
 }
+import UserProfile from "./components/UserProfile";
 
-export default App
+function App() {
+  return (
+    <div>
+      <UserProfile />
+    </div>
+  );
+}
+
+export default App;
+
