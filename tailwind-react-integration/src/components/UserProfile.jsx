@@ -29,6 +29,7 @@ function UserProfile() {
     </div>
   );
 }
-"sm:p-4"
+"sm:p-4","sm:w-24", "sm:h-24"
 export default UserProfile;
+
 
